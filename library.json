@@ -1,0 +1,24 @@
+{
+  "name": "AMMSutils",
+  "version": "1.0.0",
+  "description": "AMMS Communication library for ESP32",
+  "keywords": "AMMS, weather, opendata",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/GioIacca9/AMMSutils"
+  },
+  "authors":
+  [
+    {
+      "name": "Giosuè Iaccarino",
+      "email": "giosue@iacca.ml",
+      "url": "https://iacca.ml"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/GioIacca9/AMMSutils",
+  "dependencies": {},
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
